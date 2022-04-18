@@ -97,6 +97,7 @@ body{
         align-items: center;
         justify-content: center;
         padding-bottom: 20px;
+        transform: scale(80%);
     }
     .left{
         text-align: center;
